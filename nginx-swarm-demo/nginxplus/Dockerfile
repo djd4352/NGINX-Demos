@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:trusty-20190515
 
 MAINTAINER NGINX Docker Maintainers "docker-maint@nginx.com"
 

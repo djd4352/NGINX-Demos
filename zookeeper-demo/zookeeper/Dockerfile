@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:trusty-20190515
 MAINTAINER Kunal Pariani <kunal.pariani@nginx.com>
 
 LABEL name="zookeeper" version="3.4.11"
